@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **m.kubicki1205@gmai.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
