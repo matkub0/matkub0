@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Selenium**
 
-- 📫 How to reach me **m.kubicki1205@gmai.com**
+- 📫 How to reach me **m.kubicki1205@gmail.com**
 
 <p align="left">
 </p>
