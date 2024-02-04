@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">A passionate Junior Quality Assurance Engineer from Poland</h3>
 
-- 🌱 I’m currently learning **Java, Selenium**
+- 🌱 I’m currently learning **Java, Selenium, Python**
 
 - 📫 How to reach me **m.kubicki1205@gmail.com**
 
